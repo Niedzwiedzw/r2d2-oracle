@@ -15,4 +15,4 @@ chrono=["oracle/chrono"]
 
 [dependencies]
 r2d2 = "0.8"
-oracle = {git = "https://github.com/kubo/rust-oracle",rev = "90bac23"}
+oracle = {git = "https://github.com/kubo/rust-oracle",rev = "546193c"}
